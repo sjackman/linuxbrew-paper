@@ -1,4 +1,4 @@
-pandoc_opt=-Fpandoc-crossref -Fpandoc-citeproc
+pandoc_opt=-Fpandoc-citeproc
 
 .DELETE_ON_ERROR:
 .SECONDARY:
