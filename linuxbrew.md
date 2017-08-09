@@ -16,4 +16,11 @@ Homebrew-Science is a collection of scientific software packages installable by 
 
 Repeating an analysis of data starts with obtaining the original data and installing the software used for that analysis. Linuxbrew streamlines the installation of software in a repeatable fashion. Having the data and software is not itself sufficient, but is certainly a necessary component of reproducible science.
 
+# Introduction
+
++ BioConda <https://bioconda.github.io>
++ Biocontainers <http://biocontainers.pro> [@da_Veiga_Leprevost_2017]
++ Guix <https://www.gnu.org/software/guix/>
++ Spack <https://spack.io> [@Gamblin_2015]
+
 # References
