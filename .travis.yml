@@ -1,2 +1,4 @@
+before_install:
+  - sudo apt-get install -qqy pandoc pandoc-citeproc
 script:
   - make linuxbrew.html linuxbrew.pdf
