@@ -4,6 +4,7 @@ author: [Shaun D Jackman, Steven JM Jones, Inanc Birol]
 bibliography: linuxbrew.bib
 csl: linuxbrew.csl
 keywords: [software installation, package manager, open source, reproducible research, high performance computing]
+permalink: /
 ---
 
 # Abstract
